@@ -1,6 +1,7 @@
 import sys
 from ting_file_management.file_management import txt_importer
 
+
 def process(path_file, instance):
     """Aqui irá sua implementação"""
     instance_len = instance.__len__()
